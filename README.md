@@ -4,6 +4,6 @@ I’m relatively new to the wolrd of GitHub and tech in general. However, I am i
 
 ## Other places on the web I can be found 🌍:
 
-- You can head over to my (currently rather empty) <a rel="me" href="https://mastodon.social/@euanm" target="_blank">Mastodon</a> page.
 - You can check out how I'm getting along with the website I mentioned above at <a href="https://euanm.net" target="_blank">https://euanm.net</a>. (If you have indeed checked how I'm getting along with the website, yes I know, rather slowly...)
+- You can head over to my (currently rather empty) <a rel="me" href="https://mastodon.social/@euanm" target="_blank">Mastodon</a> page.
 - Feel free to check out how my journey with python and data science is coming along at my <a href="https://www.kaggle.com/euandata" target="_blank">kaggle</a> profile.
