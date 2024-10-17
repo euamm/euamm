@@ -1,6 +1,6 @@
 ## Hello, I’m Euan (@euamm) 👋
 
-I’m relatively new to the wolrd of GitHub and tech in general. However, I am interested in all things medicine, data, open access and open source. I’m currently going through the motions of learning Python and it's many many uses in the world of data. I'm also learning a tiny bit of common web development languages like HTML, CSS and JavaScript in an attempt to make a website focused on the interests I mentioned above. If you have an advice, reccomendations or any opportunities for collaboration on anything related to medicine, data, open access and open source then please reach out to me!
+I’m relatively new to the wolrd of GitHub and tech in general. However, I am interested in all things medicine, data, open access and open source. I’m currently going through the motions of learning Python and it's many many uses in the world of data. I'm also learning a tiny bit of common web development languages like HTML, CSS and JavaScript in an attempt to make a website focused on the interests I mentioned above. If you have any advice, reccomendations or any opportunities for collaboration on anything related to medicine, data, open access and open source then please reach out to me!
 
 ## Other places on the web I can be found 🌍:
 
